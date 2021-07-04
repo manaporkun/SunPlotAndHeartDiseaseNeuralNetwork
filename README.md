@@ -14,7 +14,7 @@ called autoregressive linear model of the n-th order
 
 <b>Work description</b>
 
-1. Choose target attribute in dataset of lab work 1 (if not defined by dataset owner). 
+1. Choose target attribute in dataset. 
 2. If necessary, perform rearrangements on target attribute values (e.g. wide range of numerical 
 attribute values change by smaller number of (categorical) intervals (e.g. range of forecasted values 
 1..2000 can be changed by 1..5 intervals)).
